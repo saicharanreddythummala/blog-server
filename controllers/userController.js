@@ -1,6 +1,6 @@
 import { Users } from '../models/userModel.js';
 import bcrypt from 'bcrypt';
-import { Post } from '../models/PostModel.js';
+import { Post } from '../models/postModel.js';
 import cloudinary from 'cloudinary';
 import ErrorHandler from '../utils/errorHandler.js';
 
